@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Kiarash 👨🏻‍🎓
+#### I'm interested in Python and Ai 🐍
+#### I'm studying Computer Science at Guilan University 🏛️
+
 
 <!--
 **KiarashDadpour/KiarashDadpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
