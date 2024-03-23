@@ -1,10 +1,15 @@
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
+
 ### Hi, I'm Kiarash 👨🏻‍🎓
-#### I'm interested in Python and Ai 🐍
+#### My focus is on Python and AI. 🐍
 #### I'm studying Computer Science at Guilan University 🏛️
----
+----
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 <!--
 **KiarashDadpour/KiarashDadpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
