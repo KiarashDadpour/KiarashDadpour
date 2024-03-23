@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
 
 ### Hi, I'm Kiarash 👨🏻‍🎓
-#### My focus is on Python and AI. 🐍
+#### My focus is on Python and AI. 💻
 #### I'm studying Computer Science at Guilan University 🏛️
 ----
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
