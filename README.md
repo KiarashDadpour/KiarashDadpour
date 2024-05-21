@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
 
-### Kiarash Dadpour
+## Kiarash Dadpour
 #### Focus: Python & AI. 
 #### Computer Science , Guilan University 
 ----
