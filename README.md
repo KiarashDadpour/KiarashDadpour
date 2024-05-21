@@ -17,6 +17,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
+
 
 
 
